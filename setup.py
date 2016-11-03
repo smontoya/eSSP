@@ -4,15 +4,15 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    name='eSSP',
-    version='1.0.1',
-    description='Basic eSSP library',
-    author='muccc',
-    author_email='info@muc.ccc.de',
-    url='https://github.com/muccc/eSSP',
-    packages=['eSSP'],
+    name='eSSP3',
+    version='2.0.1',
+    description='Basic eSSP library for python 3',
+    author='SMontoya',
+    author_email='samuelmontoyag@gmail.com',
+    url='https://github.com/smontoya/eSSP_P3',
+    packages=['eSSP3'],
     classifiers=[
-        "Programming Language :: Python :: 2",
+        "Programming Language :: Python :: 3",
         "Intended Audience :: Developers",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
